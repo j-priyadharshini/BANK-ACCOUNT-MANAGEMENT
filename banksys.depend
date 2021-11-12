@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1597675745 source:c:\users\admin\desktop\banksys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
+1597683405 source:c:\users\priya_j\downloads\banksys\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+
